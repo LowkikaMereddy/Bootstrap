@@ -1,0 +1,13 @@
+.navbar{
+    background-color: red;
+}
+
+img{
+    height: 600px;
+}
+section{
+    display: flex;
+    align-content: centre;
+    justify-content: space-around;
+    margin-top: 50px;
+}
